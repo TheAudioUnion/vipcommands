@@ -1,5 +1,5 @@
 # vipcommands
-VipCommands plugin from Spigot and Bukkit
+VipCommands plugin from Spigot and Bukkit.
 
 VIP Commands is plugin that allows your donators to use special commands that other users can't. It has some features 
 like flying and feeding themselves.
